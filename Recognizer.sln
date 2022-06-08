@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recognizer", "Recognizer.csproj", "{6EFD36D5-FDE6-4551-A0EC-75A6DF873D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFD36D5-FDE6-4551-A0EC-75A6DF873D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFD36D5-FDE6-4551-A0EC-75A6DF873D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFD36D5-FDE6-4551-A0EC-75A6DF873D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFD36D5-FDE6-4551-A0EC-75A6DF873D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E37E87-EA01-4AEE-87A6-DB141D345320}
+	EndGlobalSection
+EndGlobal
